@@ -1,2 +1,2 @@
 # My-Portfolio
-A Portfolio website.
+A Portfolio website that showcases my skills.
