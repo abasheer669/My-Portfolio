@@ -156,12 +156,21 @@ section {
   gap: 5rem;
   height: 80vh;
 }
-
-.section__pic-container {
+.section__pic-container_1{
   display: flex;
   height: 400px;
   width: 400px;
   margin: auto 0;
+  border-radius: 20%;
+}
+
+.section__pic-container_2{
+  display: flex;
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+  border-radius: 20%;
+  filter: grayscale(100%);
 }
 .section__text {
   align-self: center;
@@ -289,11 +298,12 @@ section {
   height: 80%;
 }
 
-.section__pic-container {
+/* .section__pic-container {
   height: 400px;
   width: 400px;
-  margin: auto 0;
-}
+  margin: auto 0;  
+  border-radius: 10%;  
+} */
 
 /* EXPERIENCE */
 
